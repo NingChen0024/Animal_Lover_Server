@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f60585fb.chunk.css",
+    "main.js": "/static/js/main.270b3e59.chunk.js",
+    "main.js.map": "/static/js/main.270b3e59.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2b651237.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2b651237.js.map",
+    "static/js/2.32957fa7.chunk.js": "/static/js/2.32957fa7.chunk.js",
+    "static/js/2.32957fa7.chunk.js.map": "/static/js/2.32957fa7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.93541d07102a31ab3d09beccbcf275ae.js": "/precache-manifest.93541d07102a31ab3d09beccbcf275ae.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f60585fb.chunk.css.map": "/static/css/main.f60585fb.chunk.css.map",
+    "static/js/2.32957fa7.chunk.js.LICENSE.txt": "/static/js/2.32957fa7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Plain-Regular.f2c7841a.woff2",
+    "static/media/female-avatar.png": "/static/media/female-avatar.b45c80a9.png",
+    "static/media/houses.jpg": "/static/media/houses.322a1eb2.jpg",
+    "static/media/office.png": "/static/media/office.d8d30e60.png",
+    "static/media/project-image01.jpg": "/static/media/project-image01.f72862c4.jpg",
+    "static/media/project-image02.jpg": "/static/media/project-image02.718f7275.jpg",
+    "static/media/project-image03.jpg": "/static/media/project-image03.85359bd3.jpg",
+    "static/media/project-image04.jpg": "/static/media/project-image04.9b6d6538.jpg",
+    "static/media/project-image05.jpg": "/static/media/project-image05.676fa380.jpg",
+    "static/media/working-girl.png": "/static/media/working-girl.375df9e8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b651237.js",
+    "static/js/2.32957fa7.chunk.js",
+    "static/css/main.f60585fb.chunk.css",
+    "static/js/main.270b3e59.chunk.js"
+  ]
+}
