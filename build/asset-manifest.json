@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.fae2503a.chunk.css",
-    "main.js": "/static/js/main.f95c1726.chunk.js",
-    "main.js.map": "/static/js/main.f95c1726.chunk.js.map",
+    "main.css": "/static/css/main.33ce7b5f.chunk.css",
+    "main.js": "/static/js/main.9df53e16.chunk.js",
+    "main.js.map": "/static/js/main.9df53e16.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b651237.js",
     "runtime-main.js.map": "/static/js/runtime-main.2b651237.js.map",
-    "static/js/2.928866c0.chunk.js": "/static/js/2.928866c0.chunk.js",
-    "static/js/2.928866c0.chunk.js.map": "/static/js/2.928866c0.chunk.js.map",
+    "static/js/2.f178ba5b.chunk.js": "/static/js/2.f178ba5b.chunk.js",
+    "static/js/2.f178ba5b.chunk.js.map": "/static/js/2.f178ba5b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6fc47d437f8e55f581bb80d1cfa01345.js": "/precache-manifest.6fc47d437f8e55f581bb80d1cfa01345.js",
+    "precache-manifest.d06f6d431aa576798bd82fa948999a48.js": "/precache-manifest.d06f6d431aa576798bd82fa948999a48.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.fae2503a.chunk.css.map": "/static/css/main.fae2503a.chunk.css.map",
-    "static/js/2.928866c0.chunk.js.LICENSE.txt": "/static/js/2.928866c0.chunk.js.LICENSE.txt",
+    "static/css/main.33ce7b5f.chunk.css.map": "/static/css/main.33ce7b5f.chunk.css.map",
+    "static/js/2.f178ba5b.chunk.js.LICENSE.txt": "/static/js/2.f178ba5b.chunk.js.LICENSE.txt",
     "static/media/Kids_tips.jpg": "/static/media/Kids_tips.a9c7f5b9.jpg",
     "static/media/App.css": "/static/media/Plain-Regular.f2c7841a.woff2",
     "static/media/Project_one.jpg": "/static/media/Project_one.ab69b49c.jpg",
@@ -27,19 +27,22 @@
     "static/media/kids-tip2.jpg": "/static/media/kids-tip2.8aa91680.jpg",
     "static/media/kids-tip3.jpg": "/static/media/kids-tip3.e7a11e53.jpg",
     "static/media/koala_cartoon.png": "/static/media/koala_cartoon.b0dc9a2d.png",
+    "static/media/koala_icon.png": "/static/media/koala_icon.61da23b5.png",
     "static/media/koala_pho.jpg": "/static/media/koala_pho.d8dbe379.jpg",
     "static/media/newsletter.png": "/static/media/newsletter.39b7d39c.png",
     "static/media/parents_cons.jpg": "/static/media/parents_cons.02fee2d0.jpg",
     "static/media/parents_faq.jpg": "/static/media/parents_faq.d27da740.jpg",
     "static/media/parents_help.jpg": "/static/media/parents_help.536b76fd.jpg",
     "static/media/parents_tips.jpg": "/static/media/parents_tips.23d21ddf.jpg",
+    "static/media/wallaby_icon.png": "/static/media/wallaby_icon.424547a9.png",
     "static/media/wallaby_pho.jpg": "/static/media/wallaby_pho.cdc57de9.jpg",
+    "static/media/wombat_icon.png": "/static/media/wombat_icon.86ea78e3.png",
     "static/media/wombat_pho.jpg": "/static/media/wombat_pho.75af5d1c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2b651237.js",
-    "static/js/2.928866c0.chunk.js",
-    "static/css/main.fae2503a.chunk.css",
-    "static/js/main.f95c1726.chunk.js"
+    "static/js/2.f178ba5b.chunk.js",
+    "static/css/main.33ce7b5f.chunk.css",
+    "static/js/main.9df53e16.chunk.js"
   ]
 }
