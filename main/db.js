@@ -6,7 +6,6 @@ const pool = new Pool({
     database: 'Anidb',
     password: 'Abc1770017',
     port: 5432,
-    ssl: true
 })
 
 module.exports = pool
