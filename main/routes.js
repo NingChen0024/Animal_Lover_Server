@@ -16,7 +16,7 @@ router.get('/api/get/allposts', (req, res, next) => {
     })
 })
 
-router.get('/api/get/allanimals', (req, res, next) => {
+router.get('/get/allanimals', (req, res, next) => {
     pool.query("SELECT * FROM animals", (q_err, q_res) =>{
         res.json(q_res.rows)
     })
