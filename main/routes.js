@@ -12,13 +12,13 @@ router.get('/hello', function(req, res){
 
 
 router.get('/api/get/allanimals', (req, res, next) => {
-    pool.query("SELECT * FROM posts", (q_err, q_res) =>{
+    pool.query("SELECT * FROM animals", (q_err, q_res) =>{
         res.json(q_res.rows)
     })
 })
 
 router.get('/api/get/allposts', (req, res, next) => {
-    pool.query("SELECT * FROM posts", (q_err, q_res) =>{
+    pool.query("SELECT * FROM animals", (q_err, q_res) =>{
         res.json(q_res.rows)
     })
 })
