@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4300f7f84e227e0e48591c80ca7e2c6f",
+    "revision": "39b00ab40bfca57f2630bc639a231b18",
     "url": "/index.html"
   },
   {
-    "revision": "ece0e7d196d8bfa120aa",
-    "url": "/static/css/main.c223fe35.chunk.css"
+    "revision": "f0923880f35ba1ac0fa3",
+    "url": "/static/css/main.e26c9dee.chunk.css"
   },
   {
     "revision": "e32223374c29a2b68155",
@@ -16,16 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.bbd017d2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ece0e7d196d8bfa120aa",
-    "url": "/static/js/main.70c1e419.chunk.js"
+    "revision": "f0923880f35ba1ac0fa3",
+    "url": "/static/js/main.4d757fb1.chunk.js"
   },
   {
     "revision": "8d95edaf1a05585320ac",
     "url": "/static/js/runtime-main.2b651237.js"
   },
   {
-    "revision": "a9c7f5b9e6fd5a10530045746132da38",
-    "url": "/static/media/Kids_tips.a9c7f5b9.jpg"
+    "revision": "42aacc5d6803e865822d69170470b052",
+    "url": "/static/media/KIdsTips_three.42aacc5d.png"
+  },
+  {
+    "revision": "85acf9a28d8406e712dad608e3b0a766",
+    "url": "/static/media/KidsTips_four.85acf9a2.png"
   },
   {
     "revision": "bb3f981c13f6106fdd2da30465ccce63",
@@ -80,28 +84,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/faq_dog.7e9f1c23.png"
   },
   {
-    "revision": "322a1eb21c5781b38e413e9854ba77ab",
-    "url": "/static/media/houses.322a1eb2.jpg"
-  },
-  {
     "revision": "2802c72a767242dcf4365464a98d9cde",
     "url": "/static/media/kangaroo_cartoon.2802c72a.png"
   },
   {
-    "revision": "d86bf781615b9838d541a64641f6bb1b",
-    "url": "/static/media/kids-tip1.d86bf781.png"
+    "revision": "8688bfbde1cc4477d65f3f93bd02dbfb",
+    "url": "/static/media/kidsTIps_one.8688bfbd.png"
   },
   {
-    "revision": "8aa916802404e4242ee7e32ca3371a08",
-    "url": "/static/media/kids-tip2.8aa91680.jpg"
-  },
-  {
-    "revision": "e7a11e53f920822bda052c344d1cc320",
-    "url": "/static/media/kids-tip3.e7a11e53.jpg"
+    "revision": "51e214eb8849d66961c959b93801f7ef",
+    "url": "/static/media/kidsTips_two.51e214eb.png"
   },
   {
     "revision": "b0dc9a2df94595b135e3e092a091a311",
     "url": "/static/media/koala_cartoon.b0dc9a2d.png"
+  },
+  {
+    "revision": "98ac6813e1d51baf4edf9e27253bf6d1",
+    "url": "/static/media/koala_game.98ac6813.jpg"
   },
   {
     "revision": "61da23b5527032bde8e6331a0a13523f",

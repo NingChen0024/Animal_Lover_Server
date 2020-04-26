@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c223fe35.chunk.css",
-    "main.js": "/static/js/main.70c1e419.chunk.js",
-    "main.js.map": "/static/js/main.70c1e419.chunk.js.map",
+    "main.css": "/static/css/main.e26c9dee.chunk.css",
+    "main.js": "/static/js/main.4d757fb1.chunk.js",
+    "main.js.map": "/static/js/main.4d757fb1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b651237.js",
     "runtime-main.js.map": "/static/js/runtime-main.2b651237.js.map",
     "static/js/2.bbd017d2.chunk.js": "/static/js/2.bbd017d2.chunk.js",
     "static/js/2.bbd017d2.chunk.js.map": "/static/js/2.bbd017d2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.300349969bf99b36c2ae860739f13465.js": "/precache-manifest.300349969bf99b36c2ae860739f13465.js",
+    "precache-manifest.026dd71b4cb08915649d059553d2270b.js": "/precache-manifest.026dd71b4cb08915649d059553d2270b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.c223fe35.chunk.css.map": "/static/css/main.c223fe35.chunk.css.map",
+    "static/css/main.e26c9dee.chunk.css.map": "/static/css/main.e26c9dee.chunk.css.map",
     "static/js/2.bbd017d2.chunk.js.LICENSE.txt": "/static/js/2.bbd017d2.chunk.js.LICENSE.txt",
-    "static/media/Kids_tips.jpg": "/static/media/Kids_tips.a9c7f5b9.jpg",
+    "static/media/KIdsTips_three.png": "/static/media/KIdsTips_three.42aacc5d.png",
+    "static/media/KidsTips_four.png": "/static/media/KidsTips_four.85acf9a2.png",
     "static/media/App.css": "/static/media/Plain-Regular.f2c7841a.woff2",
     "static/media/Project_one.jpg": "/static/media/Project_one.ab69b49c.jpg",
     "static/media/Project_three.jpg": "/static/media/Project_three.522f9508.jpg",
@@ -21,12 +22,11 @@
     "static/media/faq_bear.png": "/static/media/faq_bear.bb68dd39.png",
     "static/media/faq_buble.jpg": "/static/media/faq_buble.79bca161.jpg",
     "static/media/faq_dog.png": "/static/media/faq_dog.7e9f1c23.png",
-    "static/media/houses.jpg": "/static/media/houses.322a1eb2.jpg",
     "static/media/kangaroo_cartoon.png": "/static/media/kangaroo_cartoon.2802c72a.png",
-    "static/media/kids-tip1.png": "/static/media/kids-tip1.d86bf781.png",
-    "static/media/kids-tip2.jpg": "/static/media/kids-tip2.8aa91680.jpg",
-    "static/media/kids-tip3.jpg": "/static/media/kids-tip3.e7a11e53.jpg",
+    "static/media/kidsTIps_one.png": "/static/media/kidsTIps_one.8688bfbd.png",
+    "static/media/kidsTips_two.png": "/static/media/kidsTips_two.51e214eb.png",
     "static/media/koala_cartoon.png": "/static/media/koala_cartoon.b0dc9a2d.png",
+    "static/media/koala_game.jpg": "/static/media/koala_game.98ac6813.jpg",
     "static/media/koala_icon.png": "/static/media/koala_icon.61da23b5.png",
     "static/media/koala_pho.jpg": "/static/media/koala_pho.d8dbe379.jpg",
     "static/media/newsletter.png": "/static/media/newsletter.39b7d39c.png",
@@ -42,7 +42,7 @@
   "entrypoints": [
     "static/js/runtime-main.2b651237.js",
     "static/js/2.bbd017d2.chunk.js",
-    "static/css/main.c223fe35.chunk.css",
-    "static/js/main.70c1e419.chunk.js"
+    "static/css/main.e26c9dee.chunk.css",
+    "static/js/main.4d757fb1.chunk.js"
   ]
 }
