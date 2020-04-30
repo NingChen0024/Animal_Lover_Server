@@ -16,10 +16,10 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 
-app.use((req, res, next) => {
-  res.set('Cache-Control', 'no-store, no-cache, must-revalidate, private')
-  next()
-})
+// app.use((req, res, next) => {
+//   res.set('Cache-Control', 'no-store, no-cache, must-revalidate, private')
+//   next()
+// })
 
 
 
@@ -29,6 +29,8 @@ if (true){
         res.sendFile(path.resolve(__dirname, 'build', 'index.html'))
     })
 }
+
+
 
 
 /**

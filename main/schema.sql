@@ -40,3 +40,14 @@ CREATE TABLE posts (
     date_created TIMESTAMP
 );
 
+CREATE TABLE kidtips(
+    kid SERIAL PRIMARY KEY,
+    content VARCHAR(255)
+);
+
+insert into kidtips (kid, content) values (1, 'If you have Cats, attach a small bell to them. It helps to alert the native animals to run away.');
+insert into kidtips (kid, content) values (2, 'Yes, polluting the forest or parks with plastics, glasses, steels would cause a 
+                            injury or harm to the animals easily. Avoid using  them and throw the waste in bin.');
+insert into kidtips (kid, content) values (3, 'First ask your parents, make sure you follow the guidelines and wear all protective measures to help them safely.');
+insert into kidtips (kid, content) values (4, 'We all like snacks very much and are willing to share your snacks with small wild animals. But the little animals have their own food! If they eat unsuitable food, they will feel very bad! So dear children, just enjoy snacks by yourself');
+insert into kidtips (kid, content) values (5, 'We all have strong compassion and hope that cute animals can stay with you at your home. However, small animals prefer to return to the wild, that is their own home!')
