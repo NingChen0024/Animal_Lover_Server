@@ -1,27 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98896d2b4fb7a2fa2d2786732c582d29",
+    "revision": "a8a2e135d21266916e8ed25ce9ce1fee",
     "url": "/index.html"
   },
   {
-    "revision": "b0be8e3d3814a40fd3ee",
+    "revision": "e39ce33d7e8d648c4235",
     "url": "/static/css/main.772a90f2.chunk.css"
   },
   {
-    "revision": "44b2b784cf363da61801",
-    "url": "/static/js/2.a63e9488.chunk.js"
+    "revision": "9361e5d0fac143eefe48",
+    "url": "/static/js/2.b481619b.chunk.js"
   },
   {
     "revision": "8effb8af3ed9e601eca10bc4e0cb7a23",
-    "url": "/static/js/2.a63e9488.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b481619b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b0be8e3d3814a40fd3ee",
-    "url": "/static/js/main.84faecf2.chunk.js"
+    "revision": "e39ce33d7e8d648c4235",
+    "url": "/static/js/main.c5cf166d.chunk.js"
   },
   {
     "revision": "8d95edaf1a05585320ac",
     "url": "/static/js/runtime-main.2b651237.js"
+  },
+  {
+    "revision": "deb3689161540face50a8c14a64601e8",
+    "url": "/static/media/Australasian Bittern_icon.deb36891.jpeg"
+  },
+  {
+    "revision": "9e1af96ded7e64cb014695984d3a1250",
+    "url": "/static/media/Blue Whale_icon.9e1af96d.jpeg"
+  },
+  {
+    "revision": "a56dc0021232f7a9d9ea98509b20a1d2",
+    "url": "/static/media/Koala_icon.a56dc002.jpeg"
   },
   {
     "revision": "bb3f981c13f6106fdd2da30465ccce63",
@@ -48,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Plain-Regular.f2c7841a.woff2"
   },
   {
+    "revision": "272be7d171014faee71dbc319b03df63",
+    "url": "/static/media/Plains wanderer_icon.272be7d1.jpeg"
+  },
+  {
     "revision": "e07e7e223809daee2bfa8f1ca2577337",
     "url": "/static/media/Project_one.e07e7e22.jpg"
   },
@@ -72,8 +88,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Project_two_inside.d650b350.jpg"
   },
   {
+    "revision": "9a937a738e239a2dc5780df11ba04ab5",
+    "url": "/static/media/Red-tailed Black-Cockatoo_icon.9a937a73.jpeg"
+  },
+  {
+    "revision": "0984f581b4751bd660d9ef9bf85d8d33",
+    "url": "/static/media/Regent Honeyeater_icon.0984f581.jpeg"
+  },
+  {
+    "revision": "d2d5c5cbad2e2dfd9497731db0d6114e",
+    "url": "/static/media/Squirrel Glider_icon.d2d5c5cb.jpeg"
+  },
+  {
     "revision": "0e52ca8622ad78cb302409843790dd05",
     "url": "/static/media/Wombat_cartoon.0e52ca86.gif"
+  },
+  {
+    "revision": "15835eade8c3cbd56f40c60ce40bbb8a",
+    "url": "/static/media/Wombat_icon.15835ead.jpeg"
   },
   {
     "revision": "6cfd676a6888bad756a96d29e1c1a386",
