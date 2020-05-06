@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b19394a0e4d6745b4deae51e8add418",
+    "revision": "d2d4bc2e5c04ad207bd676ce748acedc",
     "url": "/index.html"
   },
   {
-    "revision": "3944ec17e81a1ce840c8",
+    "revision": "6aee3620110fea13df15",
     "url": "/static/css/main.29424230.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.ed13f37d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3944ec17e81a1ce840c8",
-    "url": "/static/js/main.aa917d63.chunk.js"
+    "revision": "6aee3620110fea13df15",
+    "url": "/static/js/main.34784c22.chunk.js"
   },
   {
     "revision": "8d95edaf1a05585320ac",
@@ -146,10 +146,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d1b63ba26578fb40dfc881c51b1518a3",
     "url": "/static/media/Red-tailed Black-Cockatoo_detail.d1b63ba2.jpeg"
-  },
-  {
-    "revision": "9a937a738e239a2dc5780df11ba04ab5",
-    "url": "/static/media/Red-tailed Black-Cockatoo_icon.9a937a73.jpeg"
   },
   {
     "revision": "193340064f6ef16c751c7bb97aaf3a8e",
