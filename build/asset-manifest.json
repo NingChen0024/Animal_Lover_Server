@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.29424230.chunk.css",
-    "main.js": "/static/js/main.090e2dda.chunk.js",
-    "main.js.map": "/static/js/main.090e2dda.chunk.js.map",
+    "main.js": "/static/js/main.6937df19.chunk.js",
+    "main.js.map": "/static/js/main.6937df19.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b651237.js",
     "runtime-main.js.map": "/static/js/runtime-main.2b651237.js.map",
     "static/js/2.ed13f37d.chunk.js": "/static/js/2.ed13f37d.chunk.js",
     "static/js/2.ed13f37d.chunk.js.map": "/static/js/2.ed13f37d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e67887e9c7cc19f5187d7a48dbeb2d35.js": "/precache-manifest.e67887e9c7cc19f5187d7a48dbeb2d35.js",
+    "precache-manifest.c2864417019114cb69b6879bb1cc15b8.js": "/precache-manifest.c2864417019114cb69b6879bb1cc15b8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.29424230.chunk.css.map": "/static/css/main.29424230.chunk.css.map",
     "static/js/2.ed13f37d.chunk.js.LICENSE.txt": "/static/js/2.ed13f37d.chunk.js.LICENSE.txt",
@@ -18,7 +18,7 @@
     "static/media/Blue Billed Duck_detail.jpeg": "/static/media/Blue Billed Duck_detail.2b2b35cb.jpeg",
     "static/media/Blue Whale_cover.jpeg": "/static/media/Blue Whale_cover.e0444161.jpeg",
     "static/media/Blue Whale_detail.jpeg": "/static/media/Blue Whale_detail.672cc0e8.jpeg",
-    "static/media/Blue Whale_icon.jpeg": "/static/media/Blue Whale_icon.15ffc142.jpeg",
+    "static/media/Blue Whale_icon.jpeg": "/static/media/Blue Whale_icon.5aa666e2.jpeg",
     "static/media/Koala_cover.jpeg": "/static/media/Koala_cover.207be208.jpeg",
     "static/media/Koala_detail.jpeg": "/static/media/Koala_detail.0fc2445a.jpeg",
     "static/media/Koala_icon.jpeg": "/static/media/Koala_icon.a56dc002.jpeg",
@@ -74,6 +74,6 @@
     "static/js/runtime-main.2b651237.js",
     "static/js/2.ed13f37d.chunk.js",
     "static/css/main.29424230.chunk.css",
-    "static/js/main.090e2dda.chunk.js"
+    "static/js/main.6937df19.chunk.js"
   ]
 }
