@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.29424230.chunk.css",
-    "main.js": "/static/js/main.0cb58a3e.chunk.js",
-    "main.js.map": "/static/js/main.0cb58a3e.chunk.js.map",
+    "main.js": "/static/js/main.5790c5fd.chunk.js",
+    "main.js.map": "/static/js/main.5790c5fd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b651237.js",
     "runtime-main.js.map": "/static/js/runtime-main.2b651237.js.map",
     "static/js/2.ed13f37d.chunk.js": "/static/js/2.ed13f37d.chunk.js",
     "static/js/2.ed13f37d.chunk.js.map": "/static/js/2.ed13f37d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.12f1bdc99e757e52cef000137eb00d97.js": "/precache-manifest.12f1bdc99e757e52cef000137eb00d97.js",
+    "precache-manifest.bd6ceca74053f863b34210bd59da1dfb.js": "/precache-manifest.bd6ceca74053f863b34210bd59da1dfb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.29424230.chunk.css.map": "/static/css/main.29424230.chunk.css.map",
     "static/js/2.ed13f37d.chunk.js.LICENSE.txt": "/static/js/2.ed13f37d.chunk.js.LICENSE.txt",
     "static/media/Australasian Bittern_cover.jpeg": "/static/media/Australasian Bittern_cover.0be81137.jpeg",
     "static/media/Australasian Bittern_detail.jpeg": "/static/media/Australasian Bittern_detail.b35134b6.jpeg",
-    "static/media/Australasian Bittern_icon.jpeg": "/static/media/Australasian Bittern_icon.6274d110.jpeg",
     "static/media/Blue Billed Duck_cover.jpeg": "/static/media/Blue Billed Duck_cover.9bd5e872.jpeg",
     "static/media/Blue Billed Duck_detail.jpeg": "/static/media/Blue Billed Duck_detail.2b2b35cb.jpeg",
     "static/media/Blue Whale_cover.jpeg": "/static/media/Blue Whale_cover.e0444161.jpeg",
@@ -76,6 +75,6 @@
     "static/js/runtime-main.2b651237.js",
     "static/js/2.ed13f37d.chunk.js",
     "static/css/main.29424230.chunk.css",
-    "static/js/main.0cb58a3e.chunk.js"
+    "static/js/main.5790c5fd.chunk.js"
   ]
 }

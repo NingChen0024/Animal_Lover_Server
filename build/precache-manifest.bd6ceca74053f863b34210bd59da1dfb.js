@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25f20d9673b651f70e53081813d1188e",
+    "revision": "8d86afd78ddcd928ae36e38e44dcd5df",
     "url": "/index.html"
   },
   {
-    "revision": "e3cf6663deb32f0e4eee",
+    "revision": "0a35073890fc499004a8",
     "url": "/static/css/main.29424230.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.ed13f37d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e3cf6663deb32f0e4eee",
-    "url": "/static/js/main.0cb58a3e.chunk.js"
+    "revision": "0a35073890fc499004a8",
+    "url": "/static/js/main.5790c5fd.chunk.js"
   },
   {
     "revision": "8d95edaf1a05585320ac",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b35134b680f44977127514fd56c89833",
     "url": "/static/media/Australasian Bittern_detail.b35134b6.jpeg"
-  },
-  {
-    "revision": "6274d1109f778f93c6add9adcc60094a",
-    "url": "/static/media/Australasian Bittern_icon.6274d110.jpeg"
   },
   {
     "revision": "9bd5e872f867e4a1586a44c39e32064e",
