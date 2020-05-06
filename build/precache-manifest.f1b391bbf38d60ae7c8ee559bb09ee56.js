@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "192cb2fdafd4206ca81266f4e22030e9",
+    "revision": "85b211f36768bd65bed039e864d02b70",
     "url": "/index.html"
   },
   {
-    "revision": "3a898ff7633518814201",
+    "revision": "72570da8ee8f786437dc",
     "url": "/static/css/main.29424230.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.ed13f37d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a898ff7633518814201",
-    "url": "/static/js/main.6937df19.chunk.js"
+    "revision": "72570da8ee8f786437dc",
+    "url": "/static/js/main.9a90f335.chunk.js"
   },
   {
     "revision": "8d95edaf1a05585320ac",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Blue Whale_detail.672cc0e8.jpeg"
   },
   {
-    "revision": "5aa666e2e4059815def23476e8eba775",
-    "url": "/static/media/Blue Whale_icon.5aa666e2.jpeg"
+    "revision": "de6c8853efa69d44bb389c8f0617aedb",
+    "url": "/static/media/Blue Whale_icon.de6c8853.jpeg"
   },
   {
     "revision": "207be2080adcc4ecd1be345192abec73",
