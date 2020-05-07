@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "654e3e7300498c6d9e0e90537235c77d",
+    "revision": "68871f62521f30b1571988e8cab11361",
     "url": "/index.html"
   },
   {
-    "revision": "4985bac343e83c181df9",
+    "revision": "93dfdc3ccbb51edc78a9",
     "url": "/static/css/main.b7684f7c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.84bcfe91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4985bac343e83c181df9",
-    "url": "/static/js/main.1625af60.chunk.js"
+    "revision": "93dfdc3ccbb51edc78a9",
+    "url": "/static/js/main.4f599303.chunk.js"
   },
   {
     "revision": "8d95edaf1a05585320ac",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "547643c33ece6a2ca1169f2c293710e9",
     "url": "/static/media/Leatherback Turtle_detail.547643c3.jpeg"
+  },
+  {
+    "revision": "4547c7b10ce961ada7ce534202eca017",
+    "url": "/static/media/Leatherback Turtle_icon.4547c7b1.jpeg"
   },
   {
     "revision": "9cfdd6d427fff173288a66de64b16ef5",
