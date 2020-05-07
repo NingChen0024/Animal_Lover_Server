@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09e9ec61248ccbbd45d7e7dd09b65226",
+    "revision": "654e3e7300498c6d9e0e90537235c77d",
     "url": "/index.html"
   },
   {
-    "revision": "864acbe3999172945a65",
+    "revision": "4985bac343e83c181df9",
     "url": "/static/css/main.b7684f7c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.84bcfe91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "864acbe3999172945a65",
-    "url": "/static/js/main.43416b64.chunk.js"
+    "revision": "4985bac343e83c181df9",
+    "url": "/static/js/main.1625af60.chunk.js"
   },
   {
     "revision": "8d95edaf1a05585320ac",
@@ -232,8 +232,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Squirrel Glider_detail.c21af841.jpeg"
   },
   {
-    "revision": "cbc655d05c42123bee5bbe18452516ba",
-    "url": "/static/media/Squirrel Glider_icon.cbc655d0.jpeg"
+    "revision": "6fc4c9bc027c46070fa8f33e9947b5ce",
+    "url": "/static/media/Squirrel Glider_icon.6fc4c9bc.jpeg"
   },
   {
     "revision": "3dbb990cdac2696fb011360cfc193028",
