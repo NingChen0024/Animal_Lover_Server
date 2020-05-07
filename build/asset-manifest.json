@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.31290261.chunk.css",
+    "main.css": "/static/css/main.b7684f7c.chunk.css",
     "main.js": "/static/js/main.d1a6ee9c.chunk.js",
     "main.js.map": "/static/js/main.d1a6ee9c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b651237.js",
@@ -8,9 +8,9 @@
     "static/js/2.84bcfe91.chunk.js": "/static/js/2.84bcfe91.chunk.js",
     "static/js/2.84bcfe91.chunk.js.map": "/static/js/2.84bcfe91.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d9018b37f82b4f97e7bf05dbab77ec0a.js": "/precache-manifest.d9018b37f82b4f97e7bf05dbab77ec0a.js",
+    "precache-manifest.617e84b06864fe7418034f6ec900949c.js": "/precache-manifest.617e84b06864fe7418034f6ec900949c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.31290261.chunk.css.map": "/static/css/main.31290261.chunk.css.map",
+    "static/css/main.b7684f7c.chunk.css.map": "/static/css/main.b7684f7c.chunk.css.map",
     "static/js/2.84bcfe91.chunk.js.LICENSE.txt": "/static/js/2.84bcfe91.chunk.js.LICENSE.txt",
     "static/media/Australasian Bittern_cards.jpeg": "/static/media/Australasian Bittern_cards.8632cd01.jpeg",
     "static/media/Australasian Bittern_cover.jpeg": "/static/media/Australasian Bittern_cover.0be81137.jpeg",
@@ -87,7 +87,7 @@
   "entrypoints": [
     "static/js/runtime-main.2b651237.js",
     "static/js/2.84bcfe91.chunk.js",
-    "static/css/main.31290261.chunk.css",
+    "static/css/main.b7684f7c.chunk.css",
     "static/js/main.d1a6ee9c.chunk.js"
   ]
 }
