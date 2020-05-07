@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.b7684f7c.chunk.css",
-    "main.js": "/static/js/main.d1a6ee9c.chunk.js",
-    "main.js.map": "/static/js/main.d1a6ee9c.chunk.js.map",
+    "main.js": "/static/js/main.43416b64.chunk.js",
+    "main.js.map": "/static/js/main.43416b64.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b651237.js",
     "runtime-main.js.map": "/static/js/runtime-main.2b651237.js.map",
     "static/js/2.84bcfe91.chunk.js": "/static/js/2.84bcfe91.chunk.js",
     "static/js/2.84bcfe91.chunk.js.map": "/static/js/2.84bcfe91.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.617e84b06864fe7418034f6ec900949c.js": "/precache-manifest.617e84b06864fe7418034f6ec900949c.js",
+    "precache-manifest.63644ebe892b4fc0e8b0d805824d859c.js": "/precache-manifest.63644ebe892b4fc0e8b0d805824d859c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.b7684f7c.chunk.css.map": "/static/css/main.b7684f7c.chunk.css.map",
     "static/js/2.84bcfe91.chunk.js.LICENSE.txt": "/static/js/2.84bcfe91.chunk.js.LICENSE.txt",
@@ -37,12 +37,12 @@
     "static/media/Plains wanderer_cover.jpeg": "/static/media/Plains wanderer_cover.d3a9c03a.jpeg",
     "static/media/Plains wanderer_detail.jpeg": "/static/media/Plains wanderer_detail.82f9d5d7.jpeg",
     "static/media/Plains wanderer_icon.jpeg": "/static/media/Plains wanderer_icon.80a63406.jpeg",
-    "static/media/Project_one.jpg": "/static/media/Project_one.e07e7e22.jpg",
-    "static/media/Project_one_inside.jpg": "/static/media/Project_one_inside.e64c3bff.jpg",
-    "static/media/Project_three.jpg": "/static/media/Project_three.e18b2b0a.jpg",
-    "static/media/Project_three_inside.jpg": "/static/media/Project_three_inside.53e27034.jpg",
-    "static/media/Project_two.jpg": "/static/media/Project_two.37227147.jpg",
-    "static/media/Project_two_inside.jpg": "/static/media/Project_two_inside.d650b350.jpg",
+    "static/media/Project_one.jpg": "/static/media/Project_one.6fcd5e04.jpg",
+    "static/media/Project_one_inside.jpg": "/static/media/Project_one_inside.99414115.jpg",
+    "static/media/Project_three.jpg": "/static/media/Project_three.7d4cc144.jpg",
+    "static/media/Project_three_inside.jpg": "/static/media/Project_three_inside.6ff2af0a.jpg",
+    "static/media/Project_two.jpg": "/static/media/Project_two.af6f3809.jpg",
+    "static/media/Project_two_inside.jpg": "/static/media/Project_two_inside.2cbd4bad.jpg",
     "static/media/Red-tailed Black-Cockatoo_cards.jpeg": "/static/media/Red-tailed Black-Cockatoo_cards.c3e5a918.jpeg",
     "static/media/Red-tailed Black-Cockatoo_cover.jpeg": "/static/media/Red-tailed Black-Cockatoo_cover.01a91095.jpeg",
     "static/media/Red-tailed Black-Cockatoo_detail.jpeg": "/static/media/Red-tailed Black-Cockatoo_detail.d1b63ba2.jpeg",
@@ -88,6 +88,6 @@
     "static/js/runtime-main.2b651237.js",
     "static/js/2.84bcfe91.chunk.js",
     "static/css/main.b7684f7c.chunk.css",
-    "static/js/main.d1a6ee9c.chunk.js"
+    "static/js/main.43416b64.chunk.js"
   ]
 }
