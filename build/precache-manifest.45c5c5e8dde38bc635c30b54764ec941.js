@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "654e3e7300498c6d9e0e90537235c77d",
+    "revision": "42bc871a61332e2bba91c5a85d4c55d0",
     "url": "/index.html"
   },
   {
-    "revision": "4985bac343e83c181df9",
+    "revision": "a07c642eb50d9acc9336",
     "url": "/static/css/main.b7684f7c.chunk.css"
   },
   {
-    "revision": "ddf99cb40ca4dcd9ffe9",
-    "url": "/static/js/2.84bcfe91.chunk.js"
+    "revision": "007f20bf4420da367bad",
+    "url": "/static/js/2.70332351.chunk.js"
   },
   {
-    "revision": "b2d0cc6814973835ceabd71a16331da9",
-    "url": "/static/js/2.84bcfe91.chunk.js.LICENSE.txt"
+    "revision": "43d3b671752fed1cb48c1bb229739522",
+    "url": "/static/js/2.70332351.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4985bac343e83c181df9",
-    "url": "/static/js/main.1625af60.chunk.js"
+    "revision": "a07c642eb50d9acc9336",
+    "url": "/static/js/main.1013cb44.chunk.js"
   },
   {
     "revision": "8d95edaf1a05585320ac",
     "url": "/static/js/runtime-main.2b651237.js"
+  },
+  {
+    "revision": "52fa00c0338ab3df6a7ea7a176cb274a",
+    "url": "/static/media/Australasian Bittern.52fa00c0.mp3"
   },
   {
     "revision": "8632cd01b6c55c8d695b20c1f61e2d4b",
@@ -36,6 +40,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Australasian Bittern_detail.b35134b6.jpeg"
   },
   {
+    "revision": "ac1ca09167a0d56325015ebfb8c8f49c",
+    "url": "/static/media/Blue Billed Duck.ac1ca091.mp3"
+  },
+  {
     "revision": "0f1793b0c2977cc2902fe28de41f8943",
     "url": "/static/media/Blue Billed Duck_cards.0f1793b0.jpeg"
   },
@@ -46,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2b2b35cb089af9728f8c5631db46f4dc",
     "url": "/static/media/Blue Billed Duck_detail.2b2b35cb.jpeg"
+  },
+  {
+    "revision": "3f1980102506b4d90f5583cfb9e5a8bf",
+    "url": "/static/media/Blue Whale.3f198010.mp3"
   },
   {
     "revision": "9aa08c079c216a9ef39ec7f4293f8850",
@@ -64,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Blue Whale_icon.33820113.jpeg"
   },
   {
+    "revision": "f8ba3ab38b60cbf22781d623026b7bd4",
+    "url": "/static/media/Koala.f8ba3ab3.mp3"
+  },
+  {
     "revision": "0ad573a28e8bd89d222d4e90ad308eeb",
     "url": "/static/media/Koala_cards.0ad573a2.jpeg"
   },
@@ -78,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a56dc0021232f7a9d9ea98509b20a1d2",
     "url": "/static/media/Koala_icon.a56dc002.jpeg"
+  },
+  {
+    "revision": "21109befd78bb0b2015bd63e37514678",
+    "url": "/static/media/Leatherback Turtle.21109bef.mp3"
   },
   {
     "revision": "d642c3ef79d15500ffbd3ef4a48bb52c",
@@ -168,6 +188,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Project_two_inside.2cbd4bad.jpg"
   },
   {
+    "revision": "a56a0ab52a4cd898cbe540609514565b",
+    "url": "/static/media/Red-tailed Black-Cockatoo.a56a0ab5.mp3"
+  },
+  {
     "revision": "c3e5a918fc9b759082ce6e46e538f2f2",
     "url": "/static/media/Red-tailed Black-Cockatoo_cards.c3e5a918.jpeg"
   },
@@ -178,6 +202,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d1b63ba26578fb40dfc881c51b1518a3",
     "url": "/static/media/Red-tailed Black-Cockatoo_detail.d1b63ba2.jpeg"
+  },
+  {
+    "revision": "2967df4436b10d8614741aa27c12962b",
+    "url": "/static/media/Regent Honeyeater.2967df44.mp3"
   },
   {
     "revision": "6597c4da322695b5c58bb7ad6ba0ec1c",
@@ -208,6 +236,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Southern Brown Bandicoot_detail.4d88768e.jpeg"
   },
   {
+    "revision": "dd5e945cd84f6ecff058d2bbfebfb777",
+    "url": "/static/media/Southern Right Whale.dd5e945c.mp3"
+  },
+  {
     "revision": "68c2509b060cdecba067276c9b0458c2",
     "url": "/static/media/Southern Right Whale_cards.68c2509b.jpeg"
   },
@@ -218,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "14377f51b96a750827b4d946620d1e80",
     "url": "/static/media/Southern Right Whale_detail.14377f51.jpeg"
+  },
+  {
+    "revision": "c6f30aa5a6e23a638dcf9b7ff29669c4",
+    "url": "/static/media/Squirrel Glider.c6f30aa5.mp3"
   },
   {
     "revision": "cb7108400698ff3e41da6ed4da5517df",
@@ -236,6 +272,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Squirrel Glider_icon.6fc4c9bc.jpeg"
   },
   {
+    "revision": "1a150c2ba067f55960025cdec6c00c81",
+    "url": "/static/media/Wallaby.1a150c2b.mp3"
+  },
+  {
     "revision": "3dbb990cdac2696fb011360cfc193028",
     "url": "/static/media/Wallaby_cards.3dbb990c.jpeg"
   },
@@ -246,6 +286,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6b85e451bc8bb7e0557f2be3fedf6a02",
     "url": "/static/media/Wallaby_detail.6b85e451.jpeg"
+  },
+  {
+    "revision": "6721563ecca3bb0373951f75afcdfbfb",
+    "url": "/static/media/Wombat.6721563e.mp3"
   },
   {
     "revision": "d514697dcab20bf695a17529c12eb5f6",
