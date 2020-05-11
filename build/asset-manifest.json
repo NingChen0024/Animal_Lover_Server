@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8888bd75.chunk.css",
-    "main.js": "/static/js/main.827347e1.chunk.js",
-    "main.js.map": "/static/js/main.827347e1.chunk.js.map",
+    "main.css": "/static/css/main.70c6de1e.chunk.css",
+    "main.js": "/static/js/main.f5a43d18.chunk.js",
+    "main.js.map": "/static/js/main.f5a43d18.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b651237.js",
     "runtime-main.js.map": "/static/js/runtime-main.2b651237.js.map",
-    "static/js/2.3abaec05.chunk.js": "/static/js/2.3abaec05.chunk.js",
-    "static/js/2.3abaec05.chunk.js.map": "/static/js/2.3abaec05.chunk.js.map",
+    "static/js/2.a0397431.chunk.js": "/static/js/2.a0397431.chunk.js",
+    "static/js/2.a0397431.chunk.js.map": "/static/js/2.a0397431.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7b3fd9f68b3bc20a9d4a5a35f53b04bd.js": "/precache-manifest.7b3fd9f68b3bc20a9d4a5a35f53b04bd.js",
+    "precache-manifest.06fe8c466ddcf2292f0f2666507facf1.js": "/precache-manifest.06fe8c466ddcf2292f0f2666507facf1.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.8888bd75.chunk.css.map": "/static/css/main.8888bd75.chunk.css.map",
-    "static/js/2.3abaec05.chunk.js.LICENSE.txt": "/static/js/2.3abaec05.chunk.js.LICENSE.txt",
+    "static/css/main.70c6de1e.chunk.css.map": "/static/css/main.70c6de1e.chunk.css.map",
+    "static/js/2.a0397431.chunk.js.LICENSE.txt": "/static/js/2.a0397431.chunk.js.LICENSE.txt",
     "static/media/Australasian Bittern.mp3": "/static/media/Australasian Bittern.52fa00c0.mp3",
     "static/media/Australasian Bittern_cards.jpeg": "/static/media/Australasian Bittern_cards.8632cd01.jpeg",
     "static/media/Australasian Bittern_cover.jpeg": "/static/media/Australasian Bittern_cover.f11fad4a.jpeg",
@@ -91,6 +91,7 @@
     "static/media/faq_bear.png": "/static/media/faq_bear.bb68dd39.png",
     "static/media/faq_buble.jpg": "/static/media/faq_buble.79bca161.jpg",
     "static/media/faq_dog.png": "/static/media/faq_dog.7e9f1c23.png",
+    "static/media/father.png": "/static/media/father.6229459a.png",
     "static/media/kangaroo_cartoon.png": "/static/media/kangaroo_cartoon.2802c72a.png",
     "static/media/kidtipsimg.png": "/static/media/kidtipsimg.1b1e4aa2.png",
     "static/media/koala_cartoon.png": "/static/media/koala_cartoon.b0dc9a2d.png",
@@ -100,13 +101,15 @@
     "static/media/parents_faq.jpg": "/static/media/parents_faq.d27da740.jpg",
     "static/media/parents_help.jpg": "/static/media/parents_help.536b76fd.jpg",
     "static/media/parents_tips.jpg": "/static/media/parents_tips.23d21ddf.jpg",
+    "static/media/question_mark.gif": "/static/media/question_mark.95d5557e.gif",
+    "static/media/son.png": "/static/media/son.9d4b827b.png",
     "static/media/wallaby_pho.jpg": "/static/media/wallaby_pho.cdc57de9.jpg",
     "static/media/wombat_pho.jpg": "/static/media/wombat_pho.75af5d1c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2b651237.js",
-    "static/js/2.3abaec05.chunk.js",
-    "static/css/main.8888bd75.chunk.css",
-    "static/js/main.827347e1.chunk.js"
+    "static/js/2.a0397431.chunk.js",
+    "static/css/main.70c6de1e.chunk.css",
+    "static/js/main.f5a43d18.chunk.js"
   ]
 }

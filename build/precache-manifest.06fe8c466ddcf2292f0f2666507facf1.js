@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d32b76102538d26e153b9ae7bdd402b1",
+    "revision": "6a9cede430ab07fa636a930b555b4db2",
     "url": "/index.html"
   },
   {
-    "revision": "5127ca97085c217d352c",
-    "url": "/static/css/main.8888bd75.chunk.css"
+    "revision": "9d89e6d60726afca1f77",
+    "url": "/static/css/main.70c6de1e.chunk.css"
   },
   {
-    "revision": "6347466c42b19577098f",
-    "url": "/static/js/2.3abaec05.chunk.js"
+    "revision": "f75aaf803cf42de51c2d",
+    "url": "/static/js/2.a0397431.chunk.js"
   },
   {
     "revision": "b2d0cc6814973835ceabd71a16331da9",
-    "url": "/static/js/2.3abaec05.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a0397431.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5127ca97085c217d352c",
-    "url": "/static/js/main.827347e1.chunk.js"
+    "revision": "9d89e6d60726afca1f77",
+    "url": "/static/js/main.f5a43d18.chunk.js"
   },
   {
     "revision": "8d95edaf1a05585320ac",
@@ -360,6 +360,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/faq_dog.7e9f1c23.png"
   },
   {
+    "revision": "6229459a2ca005e67e7af29e9d829b4d",
+    "url": "/static/media/father.6229459a.png"
+  },
+  {
     "revision": "2802c72a767242dcf4365464a98d9cde",
     "url": "/static/media/kangaroo_cartoon.2802c72a.png"
   },
@@ -394,6 +398,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "23d21ddf53ae3266f325d018c1d3d3b1",
     "url": "/static/media/parents_tips.23d21ddf.jpg"
+  },
+  {
+    "revision": "95d5557ecd8acbd29bf38bd7d365f7ce",
+    "url": "/static/media/question_mark.95d5557e.gif"
+  },
+  {
+    "revision": "9d4b827b15ccb1cf905b745476e2cd63",
+    "url": "/static/media/son.9d4b827b.png"
   },
   {
     "revision": "cdc57de96b9d9a58831a8db3076ebab5",
