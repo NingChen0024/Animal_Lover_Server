@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ae56e7f19f35ad428c6f26a3ad96a79",
+    "revision": "3e4cf4d413744b856eb591418142345a",
     "url": "/index.html"
   },
   {
-    "revision": "e55eedfcd9a237f5014d",
+    "revision": "cb529f020f9b9957c946",
     "url": "/static/css/main.ec5a5f57.chunk.css"
   },
   {
-    "revision": "b7cc2cd77ecc962123d3",
-    "url": "/static/js/2.197a497e.chunk.js"
+    "revision": "603b6214bd679c0d707f",
+    "url": "/static/js/2.148ba3e3.chunk.js"
   },
   {
     "revision": "bde6a24714cb05cbd56ff3d66cf9d215",
-    "url": "/static/js/2.197a497e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.148ba3e3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e55eedfcd9a237f5014d",
-    "url": "/static/js/main.8ffc49ee.chunk.js"
+    "revision": "cb529f020f9b9957c946",
+    "url": "/static/js/main.267dab0b.chunk.js"
   },
   {
     "revision": "8d95edaf1a05585320ac",
@@ -410,10 +410,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b0dc9a2df94595b135e3e092a091a311",
     "url": "/static/media/koala_cartoon.b0dc9a2d.png"
-  },
-  {
-    "revision": "d8dbe379d3d9f04fe04884d076e6c9fa",
-    "url": "/static/media/koala_pho.d8dbe379.jpeg"
   },
   {
     "revision": "d8dbe379d3d9f04fe04884d076e6c9fa",
