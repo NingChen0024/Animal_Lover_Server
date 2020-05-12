@@ -1,27 +1,67 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ecf4aebdbcd9f5f26dde31044eb175f1",
+    "revision": "ebf3cb92b4ab9a425a8500dced31e920",
     "url": "/index.html"
   },
   {
-    "revision": "51779387a40c3bcdf05d",
-    "url": "/static/css/main.70c6de1e.chunk.css"
+    "revision": "823a415faea7956963f0",
+    "url": "/static/css/main.82acd765.chunk.css"
   },
   {
-    "revision": "f981e81940cf37709e7e",
-    "url": "/static/js/2.93c332b0.chunk.js"
+    "revision": "3be9ad5ddda7a2b50b77",
+    "url": "/static/js/2.1c80e47b.chunk.js"
   },
   {
     "revision": "bde6a24714cb05cbd56ff3d66cf9d215",
-    "url": "/static/js/2.93c332b0.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1c80e47b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "51779387a40c3bcdf05d",
-    "url": "/static/js/main.800b7700.chunk.js"
+    "revision": "823a415faea7956963f0",
+    "url": "/static/js/main.89941121.chunk.js"
   },
   {
     "revision": "8d95edaf1a05585320ac",
     "url": "/static/js/runtime-main.2b651237.js"
+  },
+  {
+    "revision": "0e7dcc6faedcf06c1a6b29fdd4336f74",
+    "url": "/static/media/1.0e7dcc6f.jpg"
+  },
+  {
+    "revision": "765390b742f98c699602991f35fda5b9",
+    "url": "/static/media/10.765390b7.jpg"
+  },
+  {
+    "revision": "4103b29008f39da664da02554d7798b7",
+    "url": "/static/media/2.4103b290.jpg"
+  },
+  {
+    "revision": "74ae49431564d93c2ddf146d02b514d0",
+    "url": "/static/media/3.74ae4943.jpg"
+  },
+  {
+    "revision": "258a41c5476729fd6d028b6e82a7bae8",
+    "url": "/static/media/4.258a41c5.jpg"
+  },
+  {
+    "revision": "97e2ca9d720d993fa4f31f68a3078d25",
+    "url": "/static/media/5.97e2ca9d.jpg"
+  },
+  {
+    "revision": "d07a8c3353b6c33b9139e413db3ad3fc",
+    "url": "/static/media/6.d07a8c33.jpg"
+  },
+  {
+    "revision": "18cab80e284deac7f4ad69fb2dae7663",
+    "url": "/static/media/7.18cab80e.jpg"
+  },
+  {
+    "revision": "e48fb2fd3bbcae05088f98a0c439ead8",
+    "url": "/static/media/8.e48fb2fd.jpg"
+  },
+  {
+    "revision": "74e332d06a768c2d7c57d0c904559beb",
+    "url": "/static/media/9.74e332d0.jpg"
   },
   {
     "revision": "52fa00c0338ab3df6a7ea7a176cb274a",
@@ -366,10 +406,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2802c72a767242dcf4365464a98d9cde",
     "url": "/static/media/kangaroo_cartoon.2802c72a.png"
-  },
-  {
-    "revision": "1b1e4aa2a2a177aa931823d6d67bee84",
-    "url": "/static/media/kidtipsimg.1b1e4aa2.png"
   },
   {
     "revision": "b0dc9a2df94595b135e3e092a091a311",

@@ -83,11 +83,16 @@ CREATE TABLE posts (
 CREATE TABLE kidtips(
     kid SERIAL PRIMARY KEY,
     content VARCHAR(255)
+  
 );
 
-insert into kidtips (kid, content) values (1, 'If you have Cats, attach a small bell to them. It helps to alert the native animals to run away.');
-insert into kidtips (kid, content) values (2, 'Yes, polluting the forest or parks with plastics, glasses, steels would cause a 
-                            injury or harm to the animals easily. Avoid using  them and throw the waste in bin.');
-insert into kidtips (kid, content) values (3, 'First ask your parents, make sure you follow the guidelines and wear all protective measures to help them safely.');
-insert into kidtips (kid, content) values (4, 'We all like snacks very much and are willing to share your snacks with small wild animals. But the little animals have their own food! If they eat unsuitable food, they will feel very bad! So dear children, just enjoy snacks by yourself');
-insert into kidtips (kid, content) values (5, 'We all have strong compassion and hope that cute animals can stay with you at your home. However, small animals prefer to return to the wild, that is their own home!');
+insert into kidtips (kid, content) values (1, 'If you have cats, do not forget to hang a small bell on the its neck. In this way, those baby koalas and wombats will not get hurt.');
+insert into kidtips (kid, content) values (2, 'If sometimes you can see a wallaby, wombat or other small animals near your community, remember to use a small bowl to hold some water and leave it on the roadside in hot summer.');
+insert into kidtips (kid, content) values (3, 'Do not think that cute koalas and wombats love snacks as much as you do. If they eat something that is not with them, they will get sick!');
+insert into kidtips (kid, content) values (4, 'Please do not throw plastic bags into lake, these may be eaten by blue-billed ducks as food.');
+insert into kidtips (kid, content) values (5, 'When you go picnic with your parents, remember to take away the plastic bottle! That may ruin the red-tailed black-cockatoo’s home!');
+insert into kidtips (kid, content) values (6, 'When going through the countryside during rainy day, be sure to remind parents to drive slowly! Wombats may be scared!');
+insert into kidtips (kid, content) values (7, 'When you go to the beach to play, please do not throw garbage into the sea. Whales have large mouths and may swallow a lot of harmful substances during predation!');
+insert into kidtips (kid, content) values (8, 'Watch out when fishing with Mom and Dad, because you may catch a Macquarie perch! This is an endangered animal! ');
+insert into kidtips (kid, content) values (9, 'If you see an injured koala in the wild, never touch it! Because it may have bacteria on it and you may get scratched!');
+insert into kidtips (kid, content) values (10, 'When you touch a cute koala, remember to wash your hands!');
