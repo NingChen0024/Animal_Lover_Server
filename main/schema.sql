@@ -17,7 +17,8 @@ CREATE TABLE animals(
     food VARCHAR,
     habitat VARCHAR,
     anidescription VARCHAR,
-    threat VARCHAR
+    threat VARCHAR,
+    sound VARCHAR
 );
 
 INSERT INTO animals (aid, aniname, anicount, anistatus, class, family, facts, size, food, habitat, anidescription, threat)
