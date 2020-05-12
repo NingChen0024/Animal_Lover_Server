@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ec5a5f57.chunk.css",
-    "main.js": "/static/js/main.86627d75.chunk.js",
-    "main.js.map": "/static/js/main.86627d75.chunk.js.map",
+    "main.js": "/static/js/main.8ffc49ee.chunk.js",
+    "main.js.map": "/static/js/main.8ffc49ee.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b651237.js",
     "runtime-main.js.map": "/static/js/runtime-main.2b651237.js.map",
-    "static/js/2.1c746f84.chunk.js": "/static/js/2.1c746f84.chunk.js",
-    "static/js/2.1c746f84.chunk.js.map": "/static/js/2.1c746f84.chunk.js.map",
+    "static/js/2.197a497e.chunk.js": "/static/js/2.197a497e.chunk.js",
+    "static/js/2.197a497e.chunk.js.map": "/static/js/2.197a497e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ff4e6f5aedf5b928dcb165e45fd2679e.js": "/precache-manifest.ff4e6f5aedf5b928dcb165e45fd2679e.js",
+    "precache-manifest.91e2a4017ea4ab66538bf79372c5cb21.js": "/precache-manifest.91e2a4017ea4ab66538bf79372c5cb21.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ec5a5f57.chunk.css.map": "/static/css/main.ec5a5f57.chunk.css.map",
-    "static/js/2.1c746f84.chunk.js.LICENSE.txt": "/static/js/2.1c746f84.chunk.js.LICENSE.txt",
+    "static/js/2.197a497e.chunk.js.LICENSE.txt": "/static/js/2.197a497e.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.0e7dcc6f.jpg",
     "static/media/10.jpg": "/static/media/10.765390b7.jpg",
     "static/media/2.jpg": "/static/media/2.4103b290.jpg",
@@ -104,6 +104,7 @@
     "static/media/father.png": "/static/media/father.6229459a.png",
     "static/media/kangaroo_cartoon.png": "/static/media/kangaroo_cartoon.2802c72a.png",
     "static/media/koala_cartoon.png": "/static/media/koala_cartoon.b0dc9a2d.png",
+    "static/media/koala_pho.jpeg": "/static/media/koala_pho.d8dbe379.jpeg",
     "static/media/koala_pho.jpg": "/static/media/koala_pho.d8dbe379.jpg",
     "static/media/newsletter.png": "/static/media/newsletter.39b7d39c.png",
     "static/media/parents_cons.jpg": "/static/media/parents_cons.02fee2d0.jpg",
@@ -117,8 +118,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2b651237.js",
-    "static/js/2.1c746f84.chunk.js",
+    "static/js/2.197a497e.chunk.js",
     "static/css/main.ec5a5f57.chunk.css",
-    "static/js/main.86627d75.chunk.js"
+    "static/js/main.8ffc49ee.chunk.js"
   ]
 }
