@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c0a220953521422525d49ac81e46dfe",
+    "revision": "7332d3bddebccf5d8bf83bc6600f0f71",
     "url": "/index.html"
   },
   {
-    "revision": "d2ee895cba70e0a5638f",
-    "url": "/static/css/main.ec5a5f57.chunk.css"
+    "revision": "0bb57a57d5a0abfc571f",
+    "url": "/static/css/main.e770a4c5.chunk.css"
   },
   {
-    "revision": "d598da5ee6b6e65f27a2",
-    "url": "/static/js/2.1c746f84.chunk.js"
+    "revision": "6e5f66229132f1c665c1",
+    "url": "/static/js/2.fc3c2165.chunk.js"
   },
   {
     "revision": "bde6a24714cb05cbd56ff3d66cf9d215",
-    "url": "/static/js/2.1c746f84.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.fc3c2165.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d2ee895cba70e0a5638f",
-    "url": "/static/js/main.62914363.chunk.js"
+    "revision": "0bb57a57d5a0abfc571f",
+    "url": "/static/js/main.b49d13d5.chunk.js"
   },
   {
     "revision": "8d95edaf1a05585320ac",
@@ -384,8 +384,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Wombat_icon.b0f1f330.jpeg"
   },
   {
-    "revision": "6cfd676a6888bad756a96d29e1c1a386",
-    "url": "/static/media/care.6cfd676a.png"
+    "revision": "4e0c87f2f74a5db4534d9123df91f112",
+    "url": "/static/media/conservation.4e0c87f2.jpg"
+  },
+  {
+    "revision": "09ab3b0a641f5fe85958a57104b9876e",
+    "url": "/static/media/cover.09ab3b0a.jpg"
   },
   {
     "revision": "bb68dd39107d1b65ea1d252376f0c3ec",
@@ -416,16 +420,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/koala_pho.d8dbe379.jpg"
   },
   {
-    "revision": "39b7d39ca60f0fa50dcb7261d654603b",
-    "url": "/static/media/newsletter.39b7d39c.png"
+    "revision": "4759e86aae1679bfa12a0dcb063d5187",
+    "url": "/static/media/map.4759e86a.jpg"
   },
   {
-    "revision": "02fee2d081e7a623cddbf133fa6f0c0c",
-    "url": "/static/media/parents_cons.02fee2d0.jpg"
-  },
-  {
-    "revision": "d27da7401cddf8aff624965724c8a898",
-    "url": "/static/media/parents_faq.d27da740.jpg"
+    "revision": "0cc4316c4012f2a581b106051ee78388",
+    "url": "/static/media/measures.0cc4316c.jpg"
   },
   {
     "revision": "536b76fdae8194e97844587052bd05b2",
@@ -436,12 +436,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/parents_tips.23d21ddf.jpg"
   },
   {
+    "revision": "9d4b8a0f37323cdc28a6386308842e10",
+    "url": "/static/media/prediction.9d4b8a0f.jpg"
+  },
+  {
     "revision": "95d5557ecd8acbd29bf38bd7d365f7ce",
     "url": "/static/media/question_mark.95d5557e.gif"
   },
   {
     "revision": "9d4b827b15ccb1cf905b745476e2cd63",
     "url": "/static/media/son.9d4b827b.png"
+  },
+  {
+    "revision": "5222615970607b4db0f9ef17f73d28fd",
+    "url": "/static/media/tips.52226159.jpg"
   },
   {
     "revision": "cdc57de96b9d9a58831a8db3076ebab5",
