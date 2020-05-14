@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad143cd5.chunk.css",
-    "main.js": "/static/js/main.faea107f.chunk.js",
-    "main.js.map": "/static/js/main.faea107f.chunk.js.map",
+    "main.css": "/static/css/main.ff4fde37.chunk.css",
+    "main.js": "/static/js/main.10739500.chunk.js",
+    "main.js.map": "/static/js/main.10739500.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b651237.js",
     "runtime-main.js.map": "/static/js/runtime-main.2b651237.js.map",
-    "static/js/2.fc3c2165.chunk.js": "/static/js/2.fc3c2165.chunk.js",
-    "static/js/2.fc3c2165.chunk.js.map": "/static/js/2.fc3c2165.chunk.js.map",
+    "static/js/2.3d4b1888.chunk.js": "/static/js/2.3d4b1888.chunk.js",
+    "static/js/2.3d4b1888.chunk.js.map": "/static/js/2.3d4b1888.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.21ef1024cc0cce5e3ab36fce6eaafe99.js": "/precache-manifest.21ef1024cc0cce5e3ab36fce6eaafe99.js",
+    "precache-manifest.4dca39ccaf260f0e0f3911d3a730bebe.js": "/precache-manifest.4dca39ccaf260f0e0f3911d3a730bebe.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ad143cd5.chunk.css.map": "/static/css/main.ad143cd5.chunk.css.map",
-    "static/js/2.fc3c2165.chunk.js.LICENSE.txt": "/static/js/2.fc3c2165.chunk.js.LICENSE.txt",
+    "static/css/main.ff4fde37.chunk.css.map": "/static/css/main.ff4fde37.chunk.css.map",
+    "static/js/2.3d4b1888.chunk.js.LICENSE.txt": "/static/js/2.3d4b1888.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.0e7dcc6f.jpg",
     "static/media/10.jpg": "/static/media/10.765390b7.jpg",
     "static/media/2.jpg": "/static/media/2.4103b290.jpg",
@@ -103,6 +103,7 @@
     "static/media/faq_buble.jpg": "/static/media/faq_buble.79bca161.jpg",
     "static/media/faq_dog.png": "/static/media/faq_dog.7e9f1c23.png",
     "static/media/father.png": "/static/media/father.6229459a.png",
+    "static/media/habitat.jpg": "/static/media/habitat.c54add01.jpg",
     "static/media/kangaroo_cartoon.png": "/static/media/kangaroo_cartoon.2802c72a.png",
     "static/media/koala_cartoon.png": "/static/media/koala_cartoon.b0dc9a2d.png",
     "static/media/koala_pho.jpg": "/static/media/koala_pho.d8dbe379.jpg",
@@ -119,8 +120,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2b651237.js",
-    "static/js/2.fc3c2165.chunk.js",
-    "static/css/main.ad143cd5.chunk.css",
-    "static/js/main.faea107f.chunk.js"
+    "static/js/2.3d4b1888.chunk.js",
+    "static/css/main.ff4fde37.chunk.css",
+    "static/js/main.10739500.chunk.js"
   ]
 }
