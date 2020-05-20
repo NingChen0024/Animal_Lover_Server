@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba4291d5.chunk.css",
-    "main.js": "/static/js/main.c8295a76.chunk.js",
-    "main.js.map": "/static/js/main.c8295a76.chunk.js.map",
+    "main.css": "/static/css/main.1beea503.chunk.css",
+    "main.js": "/static/js/main.ada40819.chunk.js",
+    "main.js.map": "/static/js/main.ada40819.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b651237.js",
     "runtime-main.js.map": "/static/js/runtime-main.2b651237.js.map",
-    "static/js/2.d02824c1.chunk.js": "/static/js/2.d02824c1.chunk.js",
-    "static/js/2.d02824c1.chunk.js.map": "/static/js/2.d02824c1.chunk.js.map",
+    "static/js/2.ee41880b.chunk.js": "/static/js/2.ee41880b.chunk.js",
+    "static/js/2.ee41880b.chunk.js.map": "/static/js/2.ee41880b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6e51e63462afaf7318d15f3792bc01c5.js": "/precache-manifest.6e51e63462afaf7318d15f3792bc01c5.js",
+    "precache-manifest.457ac6a6141b81ce1aa516ad205bf073.js": "/precache-manifest.457ac6a6141b81ce1aa516ad205bf073.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ba4291d5.chunk.css.map": "/static/css/main.ba4291d5.chunk.css.map",
-    "static/js/2.d02824c1.chunk.js.LICENSE.txt": "/static/js/2.d02824c1.chunk.js.LICENSE.txt",
+    "static/css/main.1beea503.chunk.css.map": "/static/css/main.1beea503.chunk.css.map",
+    "static/js/2.ee41880b.chunk.js.LICENSE.txt": "/static/js/2.ee41880b.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.b0440e8c.jpg",
     "static/media/10.jpg": "/static/media/10.8e1a396e.jpg",
     "static/media/2.jpg": "/static/media/2.b142b5da.jpg",
@@ -103,6 +103,9 @@
     "static/media/Wombat_detail.jpeg": "/static/media/Wombat_detail.4e11c7de.jpeg",
     "static/media/Wombat_game.jpeg": "/static/media/Wombat_game.15835ead.jpeg",
     "static/media/Wombat_icon.jpeg": "/static/media/Wombat_icon.b57dee90.jpeg",
+    "static/media/card_one.jpeg": "/static/media/card_one.98a892ad.jpeg",
+    "static/media/card_three.jpeg": "/static/media/card_three.2d241048.jpeg",
+    "static/media/card_two.jpeg": "/static/media/card_two.565a1ba8.jpeg",
     "static/media/conservation.jpg": "/static/media/conservation.dee93885.jpg",
     "static/media/cover.jpg": "/static/media/cover.df778ef8.jpg",
     "static/media/faq_bear.png": "/static/media/faq_bear.bb68dd39.png",
@@ -128,8 +131,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2b651237.js",
-    "static/js/2.d02824c1.chunk.js",
-    "static/css/main.ba4291d5.chunk.css",
-    "static/js/main.c8295a76.chunk.js"
+    "static/js/2.ee41880b.chunk.js",
+    "static/css/main.1beea503.chunk.css",
+    "static/js/main.ada40819.chunk.js"
   ]
 }
