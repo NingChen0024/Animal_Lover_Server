@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2bf9efabdbbc21fcd21bb6892603cef6",
+    "revision": "de795a377b79a447c55606c0d97c57a7",
     "url": "/index.html"
   },
   {
-    "revision": "95e0e436389b4e78d42d",
+    "revision": "080c18fb8d389c04fcc2",
     "url": "/static/css/main.1beea503.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.5a075fcb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "95e0e436389b4e78d42d",
-    "url": "/static/js/main.58ef799c.chunk.js"
+    "revision": "080c18fb8d389c04fcc2",
+    "url": "/static/js/main.57a09694.chunk.js"
   },
   {
     "revision": "8d95edaf1a05585320ac",
@@ -176,8 +176,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Macquarie Perch_cards.9cfdd6d4.jpeg"
   },
   {
-    "revision": "276f87cb40d6314db10779e8c77b9e32",
-    "url": "/static/media/Macquarie Perch_cover.276f87cb.jpeg"
+    "revision": "2d39af3b33bb383d059816012daaee1a",
+    "url": "/static/media/Macquarie Perch_cover.2d39af3b.jpeg"
   },
   {
     "revision": "128ae27349c0773417f269cb2ffe86ca",
@@ -220,8 +220,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Plains wanderer_cover.41d959f2.jpeg"
   },
   {
-    "revision": "82f9d5d72ed62cf9eff8b8e0b979ea37",
-    "url": "/static/media/Plains wanderer_detail.82f9d5d7.jpeg"
+    "revision": "1cf79143d8ff5cccc81c95fab719e728",
+    "url": "/static/media/Plains wanderer_detail.1cf79143.jpeg"
   },
   {
     "revision": "80a634062d4ccbe45c4b0692376db0ef",
@@ -368,8 +368,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Wallaby_cards.3dbb990c.jpeg"
   },
   {
-    "revision": "6a7f270dea7fa86b01783ddf4bf879c6",
-    "url": "/static/media/Wallaby_cover.6a7f270d.jpeg"
+    "revision": "2cfdcdbeb9a1d9530e8713d8153c2690",
+    "url": "/static/media/Wallaby_cover.2cfdcdbe.jpeg"
   },
   {
     "revision": "6b85e451bc8bb7e0557f2be3fedf6a02",

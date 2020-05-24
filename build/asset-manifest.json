@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.1beea503.chunk.css",
-    "main.js": "/static/js/main.58ef799c.chunk.js",
-    "main.js.map": "/static/js/main.58ef799c.chunk.js.map",
+    "main.js": "/static/js/main.57a09694.chunk.js",
+    "main.js.map": "/static/js/main.57a09694.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b651237.js",
     "runtime-main.js.map": "/static/js/runtime-main.2b651237.js.map",
     "static/js/2.5a075fcb.chunk.js": "/static/js/2.5a075fcb.chunk.js",
     "static/js/2.5a075fcb.chunk.js.map": "/static/js/2.5a075fcb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.02018d39e88534ed8a3e839ad718cc55.js": "/precache-manifest.02018d39e88534ed8a3e839ad718cc55.js",
+    "precache-manifest.fc6a2da1f5bc28b55d3d0b7a169714ff.js": "/precache-manifest.fc6a2da1f5bc28b55d3d0b7a169714ff.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.1beea503.chunk.css.map": "/static/css/main.1beea503.chunk.css.map",
     "static/js/2.5a075fcb.chunk.js.LICENSE.txt": "/static/js/2.5a075fcb.chunk.js.LICENSE.txt",
@@ -50,13 +50,13 @@
     "static/media/Leatherback Turtle_detail.jpeg": "/static/media/Leatherback Turtle_detail.547643c3.jpeg",
     "static/media/Leatherback Turtle_icon.jpeg": "/static/media/Leatherback Turtle_icon.ab5090b3.jpeg",
     "static/media/Macquarie Perch_cards.jpeg": "/static/media/Macquarie Perch_cards.9cfdd6d4.jpeg",
-    "static/media/Macquarie Perch_cover.jpeg": "/static/media/Macquarie Perch_cover.276f87cb.jpeg",
+    "static/media/Macquarie Perch_cover.jpeg": "/static/media/Macquarie Perch_cover.2d39af3b.jpeg",
     "static/media/Macquarie Perch_detail.jpeg": "/static/media/Macquarie Perch_detail.128ae273.jpeg",
     "static/media/Macquarie Perch_icon.jpeg": "/static/media/Macquarie Perch_icon.44f7292c.jpeg",
     "static/media/App.css": "/static/media/Plain-Regular.f2c7841a.woff2",
     "static/media/Plains wanderer_cards.jpeg": "/static/media/Plains wanderer_cards.a1c27546.jpeg",
     "static/media/Plains wanderer_cover.jpeg": "/static/media/Plains wanderer_cover.41d959f2.jpeg",
-    "static/media/Plains wanderer_detail.jpeg": "/static/media/Plains wanderer_detail.82f9d5d7.jpeg",
+    "static/media/Plains wanderer_detail.jpeg": "/static/media/Plains wanderer_detail.1cf79143.jpeg",
     "static/media/Plains wanderer_game.jpeg": "/static/media/Plains wanderer_game.80a63406.jpeg",
     "static/media/Plains wanderer_icon.jpeg": "/static/media/Plains wanderer_icon.b2e184d7.jpeg",
     "static/media/Project_one.jpg": "/static/media/Project_one.6fcd5e04.jpg",
@@ -93,7 +93,7 @@
     "static/media/Squirrel Glider_icon.jpeg": "/static/media/Squirrel Glider_icon.76a37c86.jpeg",
     "static/media/Wallaby.mp3": "/static/media/Wallaby.1a150c2b.mp3",
     "static/media/Wallaby_cards.jpeg": "/static/media/Wallaby_cards.3dbb990c.jpeg",
-    "static/media/Wallaby_cover.jpeg": "/static/media/Wallaby_cover.6a7f270d.jpeg",
+    "static/media/Wallaby_cover.jpeg": "/static/media/Wallaby_cover.2cfdcdbe.jpeg",
     "static/media/Wallaby_detail.jpeg": "/static/media/Wallaby_detail.6b85e451.jpeg",
     "static/media/Wallaby_icon.jpeg": "/static/media/Wallaby_icon.262d5bf4.jpeg",
     "static/media/Wombat.mp3": "/static/media/Wombat.6721563e.mp3",
@@ -130,6 +130,6 @@
     "static/js/runtime-main.2b651237.js",
     "static/js/2.5a075fcb.chunk.js",
     "static/css/main.1beea503.chunk.css",
-    "static/js/main.58ef799c.chunk.js"
+    "static/js/main.57a09694.chunk.js"
   ]
 }
