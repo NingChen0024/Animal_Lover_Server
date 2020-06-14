@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.6f287e30.chunk.css",
-    "main.js": "/static/js/main.9c714663.chunk.js",
-    "main.js.map": "/static/js/main.9c714663.chunk.js.map",
+    "main.js": "/static/js/main.c541fb08.chunk.js",
+    "main.js.map": "/static/js/main.c541fb08.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2b651237.js",
     "runtime-main.js.map": "/static/js/runtime-main.2b651237.js.map",
-    "static/js/2.7637a3c7.chunk.js": "/static/js/2.7637a3c7.chunk.js",
-    "static/js/2.7637a3c7.chunk.js.map": "/static/js/2.7637a3c7.chunk.js.map",
+    "static/js/2.bb8fdec0.chunk.js": "/static/js/2.bb8fdec0.chunk.js",
+    "static/js/2.bb8fdec0.chunk.js.map": "/static/js/2.bb8fdec0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.76dce1b32396a4c974f61d04cf83f91b.js": "/precache-manifest.76dce1b32396a4c974f61d04cf83f91b.js",
+    "precache-manifest.aa2875d35a368f017abc4dff8042a944.js": "/precache-manifest.aa2875d35a368f017abc4dff8042a944.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.6f287e30.chunk.css.map": "/static/css/main.6f287e30.chunk.css.map",
-    "static/js/2.7637a3c7.chunk.js.LICENSE.txt": "/static/js/2.7637a3c7.chunk.js.LICENSE.txt",
+    "static/js/2.bb8fdec0.chunk.js.LICENSE.txt": "/static/js/2.bb8fdec0.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.b0440e8c.jpg",
     "static/media/10.jpg": "/static/media/10.8e1a396e.jpg",
     "static/media/2.jpg": "/static/media/2.b142b5da.jpg",
@@ -109,7 +109,6 @@
     "static/media/faq_dog.png": "/static/media/faq_dog.7e9f1c23.png",
     "static/media/father.png": "/static/media/father.6229459a.png",
     "static/media/habitat.jpg": "/static/media/habitat.fb5d54b0.jpg",
-    "static/media/icon.png": "/static/media/icon.399336be.png",
     "static/media/kangaroo_cartoon.png": "/static/media/kangaroo_cartoon.2802c72a.png",
     "static/media/koala_cartoon.png": "/static/media/koala_cartoon.b0dc9a2d.png",
     "static/media/koala_pho.jpg": "/static/media/koala_pho.a4244ac8.jpg",
@@ -127,8 +126,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2b651237.js",
-    "static/js/2.7637a3c7.chunk.js",
+    "static/js/2.bb8fdec0.chunk.js",
     "static/css/main.6f287e30.chunk.css",
-    "static/js/main.9c714663.chunk.js"
+    "static/js/main.c541fb08.chunk.js"
   ]
 }
